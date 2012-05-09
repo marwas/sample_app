@@ -96,8 +96,4 @@ GEM
 PLATFORMS
   x86-mingw32
 
-DEPENDENCIES
-  rails (= 3.2.3)
-  rspec
-  rspec-rails
-  sqlite3
+
